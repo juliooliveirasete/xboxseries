@@ -1,0 +1,13 @@
+@import url(./global/global.css);
+
+@import url(./variables/colors.css);
+
+@import url(./variables/typography.css);
+
+@import url(./paginas/header.css);
+
+@import url(./paginas/performance.css);
+
+@import url(./paginas/games.css);
+
+@import url(./paginas/footer.css)

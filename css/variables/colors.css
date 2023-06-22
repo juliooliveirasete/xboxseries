@@ -1,0 +1,92 @@
+:root {
+    --brand-color: #9bf00b;
+    --dark-10: #0c0c0c;
+    --dark-20: #777777;
+    --dark-30: #c0c0c0;
+    --dark-40: #ffffff;
+    --support-1: #2962ff;
+    --support-2: #0bb07b;
+    --support-3: #ffce52;
+    --support-4: #f03d3d;
+    --support-5: #e0e0e0;
+}
+
+.brand-color {
+    color: var(--brand-color);
+}
+
+.dark-10 {
+    color: var(--dark-10);
+}
+
+.dark-20 {
+    color: var(--dark-20);
+}
+
+.dark-30 {
+    color: var(--dark-30);
+}
+
+.dark-40 {
+    color: var(--dark-40);
+}
+
+.support-1 {
+    color: var(--support-1);
+}
+
+.support-2 {
+    color: var(--support-2);
+}
+
+.support-3 {
+    color: var(--support-3);
+}
+
+.support-4 {
+    color: var(--support-4);
+}
+
+.support-5 {
+    color: var(--support-5);
+}
+
+.brand-color-bg {
+    background-color: var(--brand-color);
+}
+
+.dark-10-bg {
+    background-color: var(--dark-10);
+}
+
+.dark-20-bg {
+    background-color: var(--dark-20);
+}
+
+.dark-30-bg {
+    background-color: var(--dark-30);
+}
+
+.dark-40-bg {
+    background-color: var(--dark-40);
+}
+
+.support-1-bg {
+    background-color: var(--support-1);
+}
+
+.support-2-bg {
+    background-color: var(--support-2);
+}
+
+.support-3-bg {
+    background-color: var(--support-3);
+}
+
+.support-4-bg {
+    background-color: var(--support-4);
+}
+
+.support-5-bg {
+    background-color: var(--support-5);
+}

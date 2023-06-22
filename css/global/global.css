@@ -1,0 +1,31 @@
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1300px;
+    padding: 30px 20px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: var(--dark-10);
+    color: var(--dark-40);
+}
+
+img {
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    display: block;
+    color: inherit;
+}
