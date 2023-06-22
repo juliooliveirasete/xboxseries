@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer div p {
+    color: dark-20;
+}
+
+.copyright {
+    display: flex;
+    gap: 30px;
+}
+
+@media (max-width: 850px) {
+    .copyright {
+        flex-direction: column;
+        gap: 5px;
+        text-align: right;
+    }
+}
