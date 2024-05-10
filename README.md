@@ -2,9 +2,9 @@
 
 Este é um projeto de clonagem da página inicial (landing page) do Xbox Series S utilizando HTML e CSS. O objetivo é replicar o design e a funcionalidade da página original.
 
-## Demonstração
+<!-- ## Demonstração
 
-Para visualizar a página clonada, você pode [clicar aqui](https://exemplo.com) para acessar a demonstração ao vivo.
+Para visualizar a página clonada, você pode [clicar aqui](https://exemplo.com) para acessar a demonstração ao vivo. -->
 
 ## Recursos Utilizados
 
